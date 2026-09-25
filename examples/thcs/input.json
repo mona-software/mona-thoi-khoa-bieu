@@ -1,0 +1,1484 @@
+{
+  "classes": [
+    {
+      "id": "6A1"
+    },
+    {
+      "id": "6A2"
+    },
+    {
+      "id": "6A3"
+    },
+    {
+      "id": "7A1"
+    },
+    {
+      "id": "7A2"
+    },
+    {
+      "id": "7A3"
+    },
+    {
+      "id": "8A1"
+    },
+    {
+      "id": "8A2"
+    },
+    {
+      "id": "8A3"
+    },
+    {
+      "id": "9A1"
+    },
+    {
+      "id": "9A2"
+    },
+    {
+      "id": "9A3"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "GV01",
+      "name": "Lan",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 1
+        }
+      ]
+    },
+    {
+      "id": "GV02",
+      "name": "Minh",
+      "unavailable": [
+        {
+          "day": 4,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "id": "GV03",
+      "name": "Hương",
+      "unavailable": [
+        {
+          "day": 5,
+          "period": 3
+        }
+      ]
+    },
+    {
+      "id": "GV04",
+      "name": "Tuấn",
+      "unavailable": [
+        {
+          "day": 6,
+          "period": 4
+        }
+      ]
+    },
+    {
+      "id": "GV05",
+      "name": "Hoa",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 5
+        }
+      ]
+    },
+    {
+      "id": "GV06",
+      "name": "Nam",
+      "unavailable": [
+        {
+          "day": 4,
+          "period": 1
+        }
+      ]
+    },
+    {
+      "id": "GV07",
+      "name": "Hà",
+      "unavailable": [
+        {
+          "day": 5,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "id": "GV08",
+      "name": "Phong",
+      "unavailable": [
+        {
+          "day": 6,
+          "period": 3
+        }
+      ]
+    },
+    {
+      "id": "GV09",
+      "name": "Mai",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 4
+        }
+      ]
+    },
+    {
+      "id": "GV10",
+      "name": "Hùng",
+      "unavailable": [
+        {
+          "day": 4,
+          "period": 5
+        }
+      ]
+    },
+    {
+      "id": "GV11",
+      "name": "Ngọc",
+      "unavailable": [
+        {
+          "day": 5,
+          "period": 1
+        }
+      ]
+    },
+    {
+      "id": "GV12",
+      "name": "Sơn",
+      "unavailable": [
+        {
+          "day": 6,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "id": "GV13",
+      "name": "Linh",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 3
+        }
+      ]
+    },
+    {
+      "id": "GV14",
+      "name": "Quân",
+      "unavailable": [
+        {
+          "day": 4,
+          "period": 4
+        }
+      ]
+    },
+    {
+      "id": "GV15",
+      "name": "Thảo",
+      "unavailable": [
+        {
+          "day": 5,
+          "period": 5
+        }
+      ]
+    },
+    {
+      "id": "GV16",
+      "name": "An",
+      "unavailable": [
+        {
+          "day": 6,
+          "period": 1
+        }
+      ]
+    },
+    {
+      "id": "GV17",
+      "name": "Bình",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "id": "GV18",
+      "name": "Chi",
+      "unavailable": [
+        {
+          "day": 4,
+          "period": 3
+        }
+      ]
+    },
+    {
+      "id": "GV19",
+      "name": "Dũng",
+      "unavailable": [
+        {
+          "day": 5,
+          "period": 4
+        }
+      ]
+    },
+    {
+      "id": "GV20",
+      "name": "Yến",
+      "unavailable": [
+        {
+          "day": 6,
+          "period": 5
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "id": "Toan",
+      "name": "Toán",
+      "heavy": true,
+      "double": true
+    },
+    {
+      "id": "Van",
+      "name": "Ngữ văn",
+      "double": true
+    },
+    {
+      "id": "Anh",
+      "name": "Tiếng Anh"
+    },
+    {
+      "id": "KHTN",
+      "name": "Khoa học tự nhiên",
+      "heavy": true
+    },
+    {
+      "id": "LSDL",
+      "name": "Lịch sử và Địa lí"
+    },
+    {
+      "id": "Tin",
+      "name": "Tin học"
+    },
+    {
+      "id": "CongNghe",
+      "name": "Công nghệ"
+    },
+    {
+      "id": "GDCD",
+      "name": "Giáo dục công dân"
+    },
+    {
+      "id": "GDTC",
+      "name": "Giáo dục thể chất"
+    },
+    {
+      "id": "NgheThuat",
+      "name": "Nghệ thuật"
+    },
+    {
+      "id": "HDTN",
+      "name": "Hoạt động trải nghiệm"
+    },
+    {
+      "id": "ChaoCo",
+      "name": "Chào cờ"
+    },
+    {
+      "id": "SinhHoat",
+      "name": "Sinh hoạt lớp"
+    },
+    {
+      "id": "GDDP",
+      "name": "Giáo dục địa phương"
+    }
+  ],
+  "assignments": [
+    {
+      "classId": "6A1",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "HDTN",
+      "teacherId": "GV01",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV01",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV01",
+      "periods": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "GDDP",
+      "teacherId": "GV16",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "HDTN",
+      "teacherId": "GV02",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV02",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV02",
+      "periods": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "GDDP",
+      "teacherId": "GV17",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "HDTN",
+      "teacherId": "GV03",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV03",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV03",
+      "periods": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "GDDP",
+      "teacherId": "GV18",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "HDTN",
+      "teacherId": "GV04",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV04",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV04",
+      "periods": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "GDDP",
+      "teacherId": "GV19",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "HDTN",
+      "teacherId": "GV05",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV05",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV05",
+      "periods": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "GDDP",
+      "teacherId": "GV20",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "HDTN",
+      "teacherId": "GV06",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV06",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV06",
+      "periods": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "GDDP",
+      "teacherId": "GV16",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "HDTN",
+      "teacherId": "GV07",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV07",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV07",
+      "periods": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "GDDP",
+      "teacherId": "GV17",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "HDTN",
+      "teacherId": "GV08",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV08",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV08",
+      "periods": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "GDDP",
+      "teacherId": "GV18",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "HDTN",
+      "teacherId": "GV09",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV09",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV09",
+      "periods": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "GDDP",
+      "teacherId": "GV19",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "HDTN",
+      "teacherId": "GV10",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV10",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV10",
+      "periods": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "GDDP",
+      "teacherId": "GV20",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "Toan",
+      "teacherId": "GV01",
+      "periods": 4
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "Van",
+      "teacherId": "GV03",
+      "periods": 4
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "Anh",
+      "teacherId": "GV05",
+      "periods": 3
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "KHTN",
+      "teacherId": "GV07",
+      "periods": 4
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "LSDL",
+      "teacherId": "GV09",
+      "periods": 3
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "HDTN",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "GDDP",
+      "teacherId": "GV16",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "Toan",
+      "teacherId": "GV02",
+      "periods": 4
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "Van",
+      "teacherId": "GV04",
+      "periods": 4
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "Anh",
+      "teacherId": "GV06",
+      "periods": 3
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "KHTN",
+      "teacherId": "GV08",
+      "periods": 4
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "LSDL",
+      "teacherId": "GV10",
+      "periods": 3
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "Tin",
+      "teacherId": "GV11",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "CongNghe",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "GDCD",
+      "teacherId": "GV13",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "GDTC",
+      "teacherId": "GV14",
+      "periods": 2
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "NgheThuat",
+      "teacherId": "GV15",
+      "periods": 2
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "HDTN",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV12",
+      "periods": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "GDDP",
+      "teacherId": "GV17",
+      "periods": 1
+    }
+  ],
+  "fixed": [
+    {
+      "classId": "6A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV01",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "6A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV01",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV02",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "6A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV02",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV03",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "6A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV03",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV04",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "7A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV04",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV05",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "7A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV05",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV06",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "7A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV06",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV07",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "8A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV07",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV08",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "8A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV08",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV09",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "8A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV09",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV10",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "9A1",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV10",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV11",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "9A2",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV11",
+      "day": 7,
+      "period": 5
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "ChaoCo",
+      "teacherId": "GV12",
+      "day": 2,
+      "period": 1
+    },
+    {
+      "classId": "9A3",
+      "subjectId": "SinhHoat",
+      "teacherId": "GV12",
+      "day": 7,
+      "period": 5
+    }
+  ]
+}

@@ -1,0 +1,132 @@
+{
+  "calendar": {
+    "days": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "periods": [
+      {
+        "id": 1,
+        "label": "Ca 1 · 17:30",
+        "session": "toi"
+      },
+      {
+        "id": 2,
+        "label": "Ca 2 · 18:30",
+        "session": "toi"
+      },
+      {
+        "id": 3,
+        "label": "Ca 3 · 19:30",
+        "session": "toi"
+      }
+    ]
+  },
+  "classes": [
+    {
+      "id": "Starters",
+      "available": [
+        {
+          "day": 2,
+          "period": 1
+        },
+        {
+          "day": 2,
+          "period": 2
+        },
+        {
+          "day": 4,
+          "period": 1
+        },
+        {
+          "day": 4,
+          "period": 2
+        },
+        {
+          "day": 6,
+          "period": 1
+        },
+        {
+          "day": 6,
+          "period": 2
+        }
+      ]
+    },
+    {
+      "id": "Movers"
+    },
+    {
+      "id": "IELTS"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "Mai",
+      "unavailable": [
+        {
+          "day": 3,
+          "period": 1
+        }
+      ]
+    },
+    {
+      "id": "David",
+      "unavailable": [
+        {
+          "day": 7,
+          "period": 3
+        }
+      ]
+    }
+  ],
+  "subjects": [
+    {
+      "id": "English",
+      "name": "Tiếng Anh",
+      "double": true
+    },
+    {
+      "id": "Speaking",
+      "name": "Giao tiếp"
+    }
+  ],
+  "assignments": [
+    {
+      "classId": "Starters",
+      "subjectId": "English",
+      "teacherId": "Mai",
+      "periods": 4
+    },
+    {
+      "classId": "Movers",
+      "subjectId": "English",
+      "teacherId": "Mai",
+      "periods": 4
+    },
+    {
+      "classId": "IELTS",
+      "subjectId": "English",
+      "teacherId": "David",
+      "periods": 4
+    },
+    {
+      "classId": "IELTS",
+      "subjectId": "Speaking",
+      "teacherId": "Mai",
+      "periods": 2
+    }
+  ],
+  "fixed": [
+    {
+      "classId": "Starters",
+      "subjectId": "English",
+      "teacherId": "Mai",
+      "day": 2,
+      "period": 1
+    }
+  ]
+}

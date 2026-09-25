@@ -1,0 +1,11 @@
+node_modules/
+dist/
+ketqua/
+coverage/
+.npm-cache/
+.env
+.env.*
+*.log
+logs/
+.DS_Store
+.beads/

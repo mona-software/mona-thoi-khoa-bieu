@@ -1,0 +1,169 @@
+lop,mon,giao_vien,so_tiet,tiet_doi,mon_nang,toi_da_moi_ngay
+6A1,Toán,GV01,4,true,true,2
+6A1,Ngữ văn,GV03,4,true,false,2
+6A1,Tiếng Anh,GV05,3,false,false,2
+6A1,Khoa học tự nhiên,GV07,4,false,true,2
+6A1,Lịch sử và Địa lí,GV09,3,false,false,2
+6A1,Tin học,GV11,1,false,false,2
+6A1,Công nghệ,GV12,1,false,false,2
+6A1,Giáo dục công dân,GV13,1,false,false,2
+6A1,Giáo dục thể chất,GV14,2,false,false,2
+6A1,Nghệ thuật,GV15,2,false,false,2
+6A1,Hoạt động trải nghiệm,GV01,1,false,false,2
+6A1,Chào cờ,GV01,1,false,false,2
+6A1,Sinh hoạt lớp,GV01,1,false,false,2
+6A1,Giáo dục địa phương,GV16,1,false,false,2
+6A2,Toán,GV02,4,true,true,2
+6A2,Ngữ văn,GV04,4,true,false,2
+6A2,Tiếng Anh,GV06,3,false,false,2
+6A2,Khoa học tự nhiên,GV08,4,false,true,2
+6A2,Lịch sử và Địa lí,GV10,3,false,false,2
+6A2,Tin học,GV11,1,false,false,2
+6A2,Công nghệ,GV12,1,false,false,2
+6A2,Giáo dục công dân,GV13,1,false,false,2
+6A2,Giáo dục thể chất,GV14,2,false,false,2
+6A2,Nghệ thuật,GV15,2,false,false,2
+6A2,Hoạt động trải nghiệm,GV02,1,false,false,2
+6A2,Chào cờ,GV02,1,false,false,2
+6A2,Sinh hoạt lớp,GV02,1,false,false,2
+6A2,Giáo dục địa phương,GV17,1,false,false,2
+6A3,Toán,GV01,4,true,true,2
+6A3,Ngữ văn,GV03,4,true,false,2
+6A3,Tiếng Anh,GV05,3,false,false,2
+6A3,Khoa học tự nhiên,GV07,4,false,true,2
+6A3,Lịch sử và Địa lí,GV09,3,false,false,2
+6A3,Tin học,GV11,1,false,false,2
+6A3,Công nghệ,GV12,1,false,false,2
+6A3,Giáo dục công dân,GV13,1,false,false,2
+6A3,Giáo dục thể chất,GV14,2,false,false,2
+6A3,Nghệ thuật,GV15,2,false,false,2
+6A3,Hoạt động trải nghiệm,GV03,1,false,false,2
+6A3,Chào cờ,GV03,1,false,false,2
+6A3,Sinh hoạt lớp,GV03,1,false,false,2
+6A3,Giáo dục địa phương,GV18,1,false,false,2
+7A1,Toán,GV02,4,true,true,2
+7A1,Ngữ văn,GV04,4,true,false,2
+7A1,Tiếng Anh,GV06,3,false,false,2
+7A1,Khoa học tự nhiên,GV08,4,false,true,2
+7A1,Lịch sử và Địa lí,GV10,3,false,false,2
+7A1,Tin học,GV11,1,false,false,2
+7A1,Công nghệ,GV12,1,false,false,2
+7A1,Giáo dục công dân,GV13,1,false,false,2
+7A1,Giáo dục thể chất,GV14,2,false,false,2
+7A1,Nghệ thuật,GV15,2,false,false,2
+7A1,Hoạt động trải nghiệm,GV04,1,false,false,2
+7A1,Chào cờ,GV04,1,false,false,2
+7A1,Sinh hoạt lớp,GV04,1,false,false,2
+7A1,Giáo dục địa phương,GV19,1,false,false,2
+7A2,Toán,GV01,4,true,true,2
+7A2,Ngữ văn,GV03,4,true,false,2
+7A2,Tiếng Anh,GV05,3,false,false,2
+7A2,Khoa học tự nhiên,GV07,4,false,true,2
+7A2,Lịch sử và Địa lí,GV09,3,false,false,2
+7A2,Tin học,GV11,1,false,false,2
+7A2,Công nghệ,GV12,1,false,false,2
+7A2,Giáo dục công dân,GV13,1,false,false,2
+7A2,Giáo dục thể chất,GV14,2,false,false,2
+7A2,Nghệ thuật,GV15,2,false,false,2
+7A2,Hoạt động trải nghiệm,GV05,1,false,false,2
+7A2,Chào cờ,GV05,1,false,false,2
+7A2,Sinh hoạt lớp,GV05,1,false,false,2
+7A2,Giáo dục địa phương,GV20,1,false,false,2
+7A3,Toán,GV02,4,true,true,2
+7A3,Ngữ văn,GV04,4,true,false,2
+7A3,Tiếng Anh,GV06,3,false,false,2
+7A3,Khoa học tự nhiên,GV08,4,false,true,2
+7A3,Lịch sử và Địa lí,GV10,3,false,false,2
+7A3,Tin học,GV11,1,false,false,2
+7A3,Công nghệ,GV12,1,false,false,2
+7A3,Giáo dục công dân,GV13,1,false,false,2
+7A3,Giáo dục thể chất,GV14,2,false,false,2
+7A3,Nghệ thuật,GV15,2,false,false,2
+7A3,Hoạt động trải nghiệm,GV06,1,false,false,2
+7A3,Chào cờ,GV06,1,false,false,2
+7A3,Sinh hoạt lớp,GV06,1,false,false,2
+7A3,Giáo dục địa phương,GV16,1,false,false,2
+8A1,Toán,GV01,4,true,true,2
+8A1,Ngữ văn,GV03,4,true,false,2
+8A1,Tiếng Anh,GV05,3,false,false,2
+8A1,Khoa học tự nhiên,GV07,4,false,true,2
+8A1,Lịch sử và Địa lí,GV09,3,false,false,2
+8A1,Tin học,GV11,1,false,false,2
+8A1,Công nghệ,GV12,1,false,false,2
+8A1,Giáo dục công dân,GV13,1,false,false,2
+8A1,Giáo dục thể chất,GV14,2,false,false,2
+8A1,Nghệ thuật,GV15,2,false,false,2
+8A1,Hoạt động trải nghiệm,GV07,1,false,false,2
+8A1,Chào cờ,GV07,1,false,false,2
+8A1,Sinh hoạt lớp,GV07,1,false,false,2
+8A1,Giáo dục địa phương,GV17,1,false,false,2
+8A2,Toán,GV02,4,true,true,2
+8A2,Ngữ văn,GV04,4,true,false,2
+8A2,Tiếng Anh,GV06,3,false,false,2
+8A2,Khoa học tự nhiên,GV08,4,false,true,2
+8A2,Lịch sử và Địa lí,GV10,3,false,false,2
+8A2,Tin học,GV11,1,false,false,2
+8A2,Công nghệ,GV12,1,false,false,2
+8A2,Giáo dục công dân,GV13,1,false,false,2
+8A2,Giáo dục thể chất,GV14,2,false,false,2
+8A2,Nghệ thuật,GV15,2,false,false,2
+8A2,Hoạt động trải nghiệm,GV08,1,false,false,2
+8A2,Chào cờ,GV08,1,false,false,2
+8A2,Sinh hoạt lớp,GV08,1,false,false,2
+8A2,Giáo dục địa phương,GV18,1,false,false,2
+8A3,Toán,GV01,4,true,true,2
+8A3,Ngữ văn,GV03,4,true,false,2
+8A3,Tiếng Anh,GV05,3,false,false,2
+8A3,Khoa học tự nhiên,GV07,4,false,true,2
+8A3,Lịch sử và Địa lí,GV09,3,false,false,2
+8A3,Tin học,GV11,1,false,false,2
+8A3,Công nghệ,GV12,1,false,false,2
+8A3,Giáo dục công dân,GV13,1,false,false,2
+8A3,Giáo dục thể chất,GV14,2,false,false,2
+8A3,Nghệ thuật,GV15,2,false,false,2
+8A3,Hoạt động trải nghiệm,GV09,1,false,false,2
+8A3,Chào cờ,GV09,1,false,false,2
+8A3,Sinh hoạt lớp,GV09,1,false,false,2
+8A3,Giáo dục địa phương,GV19,1,false,false,2
+9A1,Toán,GV02,4,true,true,2
+9A1,Ngữ văn,GV04,4,true,false,2
+9A1,Tiếng Anh,GV06,3,false,false,2
+9A1,Khoa học tự nhiên,GV08,4,false,true,2
+9A1,Lịch sử và Địa lí,GV10,3,false,false,2
+9A1,Tin học,GV11,1,false,false,2
+9A1,Công nghệ,GV12,1,false,false,2
+9A1,Giáo dục công dân,GV13,1,false,false,2
+9A1,Giáo dục thể chất,GV14,2,false,false,2
+9A1,Nghệ thuật,GV15,2,false,false,2
+9A1,Hoạt động trải nghiệm,GV10,1,false,false,2
+9A1,Chào cờ,GV10,1,false,false,2
+9A1,Sinh hoạt lớp,GV10,1,false,false,2
+9A1,Giáo dục địa phương,GV20,1,false,false,2
+9A2,Toán,GV01,4,true,true,2
+9A2,Ngữ văn,GV03,4,true,false,2
+9A2,Tiếng Anh,GV05,3,false,false,2
+9A2,Khoa học tự nhiên,GV07,4,false,true,2
+9A2,Lịch sử và Địa lí,GV09,3,false,false,2
+9A2,Tin học,GV11,1,false,false,2
+9A2,Công nghệ,GV12,1,false,false,2
+9A2,Giáo dục công dân,GV13,1,false,false,2
+9A2,Giáo dục thể chất,GV14,2,false,false,2
+9A2,Nghệ thuật,GV15,2,false,false,2
+9A2,Hoạt động trải nghiệm,GV11,1,false,false,2
+9A2,Chào cờ,GV11,1,false,false,2
+9A2,Sinh hoạt lớp,GV11,1,false,false,2
+9A2,Giáo dục địa phương,GV16,1,false,false,2
+9A3,Toán,GV02,4,true,true,2
+9A3,Ngữ văn,GV04,4,true,false,2
+9A3,Tiếng Anh,GV06,3,false,false,2
+9A3,Khoa học tự nhiên,GV08,4,false,true,2
+9A3,Lịch sử và Địa lí,GV10,3,false,false,2
+9A3,Tin học,GV11,1,false,false,2
+9A3,Công nghệ,GV12,1,false,false,2
+9A3,Giáo dục công dân,GV13,1,false,false,2
+9A3,Giáo dục thể chất,GV14,2,false,false,2
+9A3,Nghệ thuật,GV15,2,false,false,2
+9A3,Hoạt động trải nghiệm,GV12,1,false,false,2
+9A3,Chào cờ,GV12,1,false,false,2
+9A3,Sinh hoạt lớp,GV12,1,false,false,2
+9A3,Giáo dục địa phương,GV17,1,false,false,2

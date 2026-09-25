@@ -1,0 +1,29 @@
+{
+  "name": "mona-thoi-khoa-bieu",
+  "version": "0.1.0",
+  "description": "Engine xếp thời khóa biểu cho trường và trung tâm Việt Nam, chạy trên Node.js và trình duyệt.",
+  "type": "module",
+  "main": "./dist/index.cjs",
+  "module": "./dist/index.js",
+  "types": "./dist/types/index.d.ts",
+  "browser": "./dist/index.js",
+  "exports": { ".": { "types": "./dist/types/index.d.ts", "import": "./dist/index.js", "require": "./dist/index.cjs" }, "./browser": "./dist/browser.js", "./schema": "./schema/input.schema.json" },
+  "bin": { "mona-thoi-khoa-bieu": "./dist/cli.js" },
+  "files": ["dist", "schema", "examples", "README.md", "LICENSE", "CHANGELOG.md"],
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "test": "node --test test/*.test.mjs",
+    "lint": "node scripts/lint.mjs",
+    "typecheck": "tsc --noEmit",
+    "benchmark": "node scripts/benchmark.mjs",
+    "prepack": "npm run build"
+  },
+  "engines": { "node": ">=18" },
+  "license": "MIT",
+  "author": "The MONA Group",
+  "repository": { "type": "git", "url": "https://github.com/themonagroup/mona-thoi-khoa-bieu.git" },
+  "homepage": "https://github.com/themonagroup/mona-thoi-khoa-bieu#readme",
+  "bugs": { "url": "https://github.com/themonagroup/mona-thoi-khoa-bieu/issues" },
+  "keywords": ["thoi-khoa-bieu", "timetable", "school", "scheduling", "vietnam", "mona", "simulated-annealing"],
+  "devDependencies": { "@types/node": "^18.19.0", "esbuild": "^0.25.0", "typescript": "^5.8.0" }
+}
