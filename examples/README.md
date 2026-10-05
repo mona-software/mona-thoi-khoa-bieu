@@ -1,23 +1,25 @@
-# Dữ liệu mẫu
+# Example data
 
-Đây là **số liệu mẫu**, không phải dữ liệu của một trường thật hay phân phối chương trình chính thức. Tên giáo viên chỉ dùng để minh họa.
+These are illustrative figures, not data from a real school or an official curriculum plan. Teacher names are for demonstration only.
 
-## THCS: 12 lớp, 20 giáo viên
+## Lower secondary school (THCS): 12 classes, 20 teachers
 
-`thcs/input.json` gồm các lớp 6A1–9A3, 29 tiết/lớp/tuần (348 tiết), trong khung 30 ô từ thứ 2 đến thứ 7, mỗi sáng 5 tiết. Một ô còn trống mỗi lớp là chủ ý.
+`thcs/input.json` covers classes 6A1–9A3 with 29 periods per class per week (348 in total), in a 30-slot grid from Monday to Saturday (days 2–7) with 5 morning periods each. One empty slot per class is intentional.
 
-Nhóm môn mô phỏng cách tổ chức GDPT 2018: Toán, Ngữ văn, Tiếng Anh, Khoa học tự nhiên, Lịch sử và Địa lí, Tin học, Công nghệ, Giáo dục công dân, Giáo dục thể chất, Nghệ thuật, Hoạt động trải nghiệm và Giáo dục địa phương. Toán/Văn 4 tiết, Anh 3 tiết, KHTN 4 tiết, Lịch sử và Địa lí 3 tiết; các môn còn lại dùng phân bổ minh họa. Hoạt động trải nghiệm gồm 1 tiết hoạt động, 1 Chào cờ, 1 Sinh hoạt lớp. Phân bổ này được dùng giống nhau cho bốn khối để dễ thử engine; trường cần thay bằng kế hoạch giáo dục thực tế đã duyệt, nhất là các nội dung phân bổ theo năm/chủ đề.
+Subject groups follow the structure of the 2018 general education curriculum (GDPT 2018): Toán, Ngữ văn, Tiếng Anh, Khoa học tự nhiên, Lịch sử và Địa lí, Tin học, Công nghệ, Giáo dục công dân, Giáo dục thể chất, Nghệ thuật, Hoạt động trải nghiệm and Giáo dục địa phương. Math and literature have 4 periods, English 3, natural science 4, history and geography 3; the remaining subjects use illustrative allocations. Hoạt động trải nghiệm (experiential activities) has 1 activity period, 1 flag ceremony (Chào cờ) and 1 homeroom period (Sinh hoạt lớp). The same allocation is used for all four grades to make the engine easy to try; a school should replace it with its approved education plan, especially for content allocated by year or topic.
 
-Mỗi GV có một ô bận. Chào cờ cố định thứ 2 tiết 1 và Sinh hoạt lớp thứ 7 tiết 5. Mười hai GV chủ nhiệm khác nhau được gắn vào các tiết cố định để không trùng giáo viên.
+Each teacher has one unavailable slot. The flag ceremony is fixed on Monday period 1 and homeroom on Saturday period 5. Twelve different homeroom teachers are assigned to these fixed lessons so teachers do not clash.
 
-Ba CSV `lop.csv`, `phan-cong.csv`, `ban.csv` dùng cùng phân công và lịch bận. Định dạng ba CSV cơ bản không chứa lịch tùy chỉnh hay tiết cố định: dùng JSON khi cần hai phần này. Mã môn trong JSON là mã ngắn; CSV dùng tên môn tiếng Việt để minh họa Unicode.
+The three CSV files `lop.csv`, `phan-cong.csv` and `ban.csv` use the same assignments and unavailability. The basic CSV format has no custom calendar or fixed lessons; use JSON when you need them. Subject IDs in the JSON are short codes; the CSV uses full Vietnamese subject names to demonstrate Unicode handling.
 
-## Trung tâm ngoại ngữ
+## Language center
 
-`trung-tam/input.json`: ba lớp, hai GV, 14 tiết trong ba ca tối mỗi ngày. Lớp Starters chỉ học thứ 2/4/6, ca 1–2; có một tiết cố định. Ca 17:30, 18:30, 19:30 là nhãn mẫu; engine tính xung đột bằng mã ca, không tính độ dài theo phút.
+`trung-tam/input.json`: three classes, two teachers, 14 lessons in three evening sessions per day. The Starters class only meets on Monday, Wednesday and Friday (days 2, 4, 6), sessions 1–2, and has one fixed lesson. The 17:30, 18:30 and 19:30 times are sample labels; the engine detects conflicts by period ID, not by duration in minutes.
 
-Tạo lại dữ liệu mẫu có tính xác định:
+Regenerate the example data deterministically:
 
 ```sh
 node scripts/generate-examples.mjs
 ```
+
+**`mona-thoi-khoa-bieu` is a product of MONA Software, a member of The MONA Group.**
