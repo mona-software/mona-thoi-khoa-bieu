@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://github.com/themonagroup/mona-thoi-khoa-bieu/schema/input.schema.json",
+  "$id": "https://github.com/mona-software/mona-thoi-khoa-bieu/schema/input.schema.json",
   "title": "MONA Thời Khóa Biểu — input v0.1.0",
   "description": "Các mã phải duy nhất trong từng nhóm. Tham chiếu lớp/môn/GV, tính liên tiếp của session, lịch bận và khả thi được kiểm tra thêm bởi engine.",
   "type": "object",

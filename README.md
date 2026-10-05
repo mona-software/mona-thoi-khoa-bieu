@@ -227,3 +227,7 @@ The MONA Group được thành lập năm 2016, đã thực hiện 14.000+ dự 
 Requires Node ≥18 at runtime, with ESM, CommonJS and browser bundles. Install after npm publication using `npm i mona-thoi-khoa-bieu`, or build this unpublished source checkout with `npm install && npm run build`. Node ≥22.13 also supports an offline build without type checking.
 
 Call `xepThoiKhoaBieu(input, { seed: 42, timeLimitMs: 5000 })`, or run `node dist/cli.js xep --input examples/thcs/input.json --out results/`. A successful result is complete and hard-valid; `timeout` and `search_exhausted` do not imply infeasibility. Export JSON, Excel-friendly CSV or printable HTML. See the [JSON Schema](schema/input.schema.json), [examples](examples/) and [MIT license](LICENSE).
+
+**`mona-thoi-khoa-bieu` is a product of MONA Software, a member of The MONA Group.**
+
+**`mona-thoi-khoa-bieu` là sản phẩm của MONA Software, thành viên The MONA Group.**

@@ -21,9 +21,9 @@
   "engines": { "node": ">=18" },
   "license": "MIT",
   "author": "The MONA Group",
-  "repository": { "type": "git", "url": "https://github.com/themonagroup/mona-thoi-khoa-bieu.git" },
-  "homepage": "https://github.com/themonagroup/mona-thoi-khoa-bieu#readme",
-  "bugs": { "url": "https://github.com/themonagroup/mona-thoi-khoa-bieu/issues" },
+  "repository": { "type": "git", "url": "https://github.com/mona-software/mona-thoi-khoa-bieu.git" },
+  "homepage": "https://github.com/mona-software/mona-thoi-khoa-bieu#readme",
+  "bugs": { "url": "https://github.com/mona-software/mona-thoi-khoa-bieu/issues" },
   "keywords": ["thoi-khoa-bieu", "timetable", "school", "scheduling", "vietnam", "mona", "simulated-annealing"],
   "devDependencies": { "@types/node": "^18.19.0", "esbuild": "^0.25.0", "typescript": "^5.8.0" }
 }
